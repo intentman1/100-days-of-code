@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: August 5, 2020 (Example 1)
+### Day 0: August 5, 2020 
 
 
 **Today's Progress**: Committed to the 100 days of code publically.
