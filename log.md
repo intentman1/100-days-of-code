@@ -1,13 +1,13 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 0: August 5, 2020 (Example 1)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Today's Progress**: Committed to the 100 days of code publically.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Thoughts:** I'm currently trying to get a handle on inline-block to solve a display problem for a basic website I'm working on. 
+
+**Link to work:** none
 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
