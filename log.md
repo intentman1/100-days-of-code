@@ -9,7 +9,7 @@
 
 **Link to work:** none
 
-### Day 0: August 6, 2020 
+### Day 1: August 6, 2020 
 
 
 **Today's Progress**: Worked on inline-block some more.
@@ -19,7 +19,7 @@
 **Link to work:** none
 
 
-### Day 0: August 7, 2020 
+### Day 2: August 7, 2020 
 
 
 **Today's Progress**: More fun with inline-block. Worked on some visual design lessons on FreeCodeCamp. 
